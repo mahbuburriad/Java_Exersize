@@ -1,0 +1,1 @@
+Java Program to Check Whether an Alphabet is Vowel or Consonant
